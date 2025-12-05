@@ -1,0 +1,42 @@
+export const tickets = [
+  {
+    id: "#1023",
+    customer: "Jane Doe",
+    subject: "Payment not going through",
+    status: "Open",
+    priority: "High",
+    updatedAt: "2025-12-01 14:32",
+  },
+  {
+    id: "#1024",
+    customer: "Acme Corp",
+    subject: "Cannot access dashboard",
+    status: "Pending",
+    priority: "Medium",
+    updatedAt: "2025-12-02 09:15",
+  },
+  {
+    id: "#1025",
+    customer: "John Smith",
+    subject: "Wrong invoice amount",
+    status: "Resolved",
+    priority: "Low",
+    updatedAt: "2025-12-02 11:47",
+  },
+  {
+    id: "#1026",
+    customer: "Brightline Studio",
+    subject: "Need help setting up webhooks",
+    status: "Open",
+    priority: "High",
+    updatedAt: "2025-12-03 08:21",
+  },
+  {
+    id: "#1027",
+    customer: "CloudNine",
+    subject: "Account suspended unexpectedly",
+    status: "Pending",
+    priority: "High",
+    updatedAt: "2025-12-03 10:02",
+  },
+];
